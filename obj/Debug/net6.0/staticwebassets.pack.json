@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\TrabalhoF\\Estudos\\C#\\Blazor\\AluraCalcMDC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AluraCalcMDC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AluraCalcMDC.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\TrabalhoF\\Estudos\\C#\\Blazor\\AluraCalcMDC\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\TrabalhoF\\Estudos\\C#\\Blazor\\AluraCalcMDC\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\TrabalhoF\\Estudos\\C#\\Blazor\\AluraCalcMDC\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "F:\\TrabalhoF\\Estudos\\C#\\Blazor\\AluraCalcMDC\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "F:\\TrabalhoF\\Estudos\\C#\\Blazor\\AluraCalcMDC\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "F:\\TrabalhoF\\Estudos\\C#\\Blazor\\AluraCalcMDC\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\TrabalhoF\\Estudos\\C#\\Blazor\\AluraCalcMDC\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "F:\\TrabalhoF\\Estudos\\C#\\Blazor\\AluraCalcMDC\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "F:\\TrabalhoF\\Estudos\\C#\\Blazor\\AluraCalcMDC\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "F:\\TrabalhoF\\Estudos\\C#\\Blazor\\AluraCalcMDC\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "F:\\TrabalhoF\\Estudos\\C#\\Blazor\\AluraCalcMDC\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "F:\\TrabalhoF\\Estudos\\C#\\Blazor\\AluraCalcMDC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\TrabalhoF\\Estudos\\C#\\Blazor\\AluraCalcMDC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AluraCalcMDC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AluraCalcMDC.props",
+      "PackagePath": "build\\AluraCalcMDC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AluraCalcMDC.props",
+      "PackagePath": "buildMultiTargeting\\AluraCalcMDC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AluraCalcMDC.props",
+      "PackagePath": "buildTransitive\\AluraCalcMDC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
